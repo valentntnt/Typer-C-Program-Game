@@ -1,0 +1,4 @@
+Admin admin123
+bot1 bot090
+bot2 bot2025
+bot3 botbot

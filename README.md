@@ -1,4 +1,4 @@
-# ⌨️ Typer C Program Game
+# Typer C Program Game
 
 Game tes kecepatan mengetik berbasis C terminal dengan berbagai mode permainan, sistem autentikasi, dan leaderboard.
 
